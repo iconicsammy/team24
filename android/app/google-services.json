@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968797984029",
+    "project_id": "teamtwentyfour-01",
+    "storage_bucket": "teamtwentyfour-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968797984029:android:16657589f57d83ff8b7df4",
+        "android_client_info": {
+          "package_name": "com.teamtwentyfour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968797984029-96fp0nobtidu968o258irrnhiccor5pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmLwVPPuJufsQMNdB_HqoHG3QAFJqpO04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968797984029-96fp0nobtidu968o258irrnhiccor5pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
